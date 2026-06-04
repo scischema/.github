@@ -45,7 +45,3 @@ We are actively building and refining schemas across scientific disciplines. If 
 
 - Schema-Miner — https://github.com/sciknoworg/schema-miner
 - ORKG (Open Research Knowledge Graph) — https://orkg.org/
-
-## 🌐 Website
-
-https://scischema.org
