@@ -1,16 +1,24 @@
-SciSchema is a community-driven initiative for developing, curating, and publishing machine-readable scientific process schemas across scientific disciplines.
+👋 Welcome!
 
-Our goal is to make scientific methods more discoverable, reusable, comparable, and machine-actionable.
+We are a community-driven initiative to capture, structure, and share scientific methods as reusable schemas.
 
-## Current Domains
+Scientific methods deserve persistent, reusable, machine-readable representations.
 
-### Biology & Biotechnology
+We believe that scientific processes—from PCR and RNA-seq to fatigue testing, steam reforming, and neutrino reconstruction—should be as discoverable, comparable, and reusable as scientific publications themselves.
+
+Our mission is to create an open collection of expert-curated scientific process schemas that help make scientific knowledge more transparent, machine-actionable, and FAIR.
+
+Whether you are a domain scientist, method developer, data steward, knowledge engineer, or simply curious about structured scientific knowledge, we welcome your contributions and feedback.
+
+## 🌍 Current Domains
+
+### 🧬 Biology & Biotechnology
 - PCR
 - RNA-seq
 - CRISPR-Cas
 - Electrical Cell Stimulation
 
-### Materials & Chemistry
+### ⚗️ Materials & Chemistry
 - Fatigue Testing
 - Steam Reforming
 - Solvent Casting
@@ -18,22 +26,26 @@ Our goal is to make scientific methods more discoverable, reusable, comparable, 
 - Metal-Organic Cage Synthesis
 - Dynamic Mechanical Analysis
 
-### Imaging & Measurement
+### 🖼️ Imaging & Measurement
 - Iterative X-ray CT Reconstruction
 - MEA Recordings
 
-### Physics
+### 🌌 Physics
 - Neutrino Event Reconstruction
 
-### Psychology
+### 🧠 Psychology
 - Stroop Task
-- Torrance Tests of Creative Thinking
+- Torrance Tests of Creative Thinking (TTCT)
 
-## Related Projects
+## 🤝 Get Involved
 
-- Schema-Miner https://github.com/sciknoworg/schema-miner
-- Open Research Knowledge Graph (ORKG) https://orkg.org/
+We are actively building and refining schemas across scientific disciplines. If you would like to contribute a schema, review an existing one, or collaborate with us, we would love to hear from you.
 
-## Website
+## 🔗 Related Projects
+
+- Schema-Miner — https://github.com/sciknoworg/schema-miner
+- ORKG (Open Research Knowledge Graph) — https://orkg.org/
+
+## 🌐 Website
 
 https://scischema.org
