@@ -1,4 +1,4 @@
-👋 Welcome!
+# 👋 Welcome!
 
 We are a community-driven initiative to capture, structure, and share scientific methods as reusable schemas.
 
