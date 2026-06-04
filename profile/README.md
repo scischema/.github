@@ -1,7 +1,3 @@
-# SciSchema
-
-🔬 Machine-readable scientific process schemas for open, reusable, and interoperable science.
-
 SciSchema is a community-driven initiative for developing, curating, and publishing machine-readable scientific process schemas across scientific disciplines.
 
 Our goal is to make scientific methods more discoverable, reusable, comparable, and machine-actionable.
